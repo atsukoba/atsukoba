@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Connect-Wantedly-00a4bb)](https://www.wantedly.com/users/25859233)
 
 - Age: 22
-- Website: www.atsuya.xyz
+- Website: <www.atsuya.xyz>
 - [Google Scholar](https://scholar.google.com/citations?user=wk9-xH8AAAAJ&hl=ja)
 - Keywords: `Interactive System on Musical Experience`, `Human-Artificial Intelligence Interaction`, `Brain-Machine Interface`, `Web-based System`, `Artwork Generation System`, `Natural Language Processing`
 - Email: atsuya_wgp4346 [at] keio.jp
@@ -33,8 +33,8 @@ Faculty of Environment and Information Studies, Keio University (04/2016 - prese
 
 ### Research
 
-- Aoyama Lab. (brain.sfc.keio.ac.jp) (04/2017 - 03/2019)
-- Computational Creativity Lab. (cclab.sfc.keio.ac.jp) (04/2019 - present)
+- Aoyama Lab. [brain.sfc.keio.ac.jp](https://brain.sfc.keio.ac.jp) (04/2017 - 03/2019)
+- Computational Creativity Lab. [cclab.sfc.keio.ac.jp](https://cclab.sfc.keio.ac.jp) (04/2019 - present)
 
 ### Publications
 
