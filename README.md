@@ -33,8 +33,8 @@ Faculty of Environment and Information Studies, Keio University (04/2016 - prese
 
 ### Research
 
-- Aoyama Lab. (04/2017 - 03/2019)
-- Computational Creativity Lab. (04/2019 - present)
+- Aoyama Lab. (brain.sfc.keio.ac.jp) (04/2017 - 03/2019)
+- Computational Creativity Lab. (cclab.sfc.keio.ac.jp) (04/2019 - present)
 
 ### Publications
 
