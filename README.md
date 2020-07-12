@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 
 # 😄Hello I'm Atsuya😄
 
-[![](https://img.shields.io/badge/Follow-Twitter-00acee)](https://twitter.com/atsuyakoba)
+[![](https://img.shields.io/badge/Check-Portfolio-ff3366)](portfolio_202007.pdf)
 [![](https://img.shields.io/badge/Listen-SoundCloud-orange)](https://soundcloud.com/atsu_jg43yr)
+[![](https://img.shields.io/badge/Follow-Twitter-00acee)](https://twitter.com/atsuyakoba)
 [![](https://img.shields.io/badge/Connect-Linkedin-0077b5)](https://www.linkedin.com/in/atsuyakobayashi/?locale=ja_JP)
 [![](https://img.shields.io/badge/Connect-Wantedly-00a4bb)](https://www.wantedly.com/users/25859233)
+[![](https://img.shields.io/badge/Research-GoogleScholar-888888)](https://scholar.google.com/citations?user=wk9-xH8AAAAJ&hl=ja)
 
 - Age: 22
 - Website: <www.atsuya.xyz>
-- [Google Scholar](https://scholar.google.com/citations?user=wk9-xH8AAAAJ&hl=ja)
 - Keywords: `Interactive System on Musical Experience`, `Human-Artificial Intelligence Interaction`, `Brain-Machine Interface`, `Web-based System`, `Artwork Generation System`, `Natural Language Processing`
 - Email: atsuya_wgp4346 [at] keio.jp
 - Hobbies: `Electric Guitar`, `Drums`, `Electric Bass`, `Koto (Japanese Traditional Harp)`
