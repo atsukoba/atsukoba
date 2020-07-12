@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 😄Hello I'm Atsuya😄
 
-[![](https://img.shields.io/badge/Check-Portfolio-ff3366)](/portfolio_202007.pdf)
+[![](https://img.shields.io/badge/Check-Portfolio-ff3366)](https://github.com/atsukoba/atsukoba/blob/master/portfolio_202007.pdf)
 [![](https://img.shields.io/badge/Listen-SoundCloud-orange)](https://soundcloud.com/atsu_jg43yr)
 [![](https://img.shields.io/badge/Follow-Twitter-00acee)](https://twitter.com/atsuyakoba)
 [![](https://img.shields.io/badge/Connect-Linkedin-0077b5)](https://www.linkedin.com/in/atsuyakobayashi/?locale=ja_JP)
