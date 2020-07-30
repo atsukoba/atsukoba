@@ -1,18 +1,3 @@
-<!--
-**atsukoba/atsukoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 😄Hello I'm Atsuya😄
 
 [![](https://img.shields.io/badge/Check-Portfolio-ff3366)](https://github.com/atsukoba/atsukoba/blob/master/portfolio_202007.pdf)
@@ -27,6 +12,10 @@ Here are some ideas to get you started:
 - Keywords: `Interactive System on Musical Experience`, `Human-Artificial Intelligence Interaction`, `Brain-Machine Interface`, `Web-based System`, `Artwork Generation System`, `Natural Language Processing`
 - Email: atsuya_wgp4346 [at] keio.jp
 - Hobbies: `Electric Guitar`, `Drums`, `Electric Bass`, `Koto (Japanese Traditional Harp)`
+
+## Coding
+
+![stats](https://github-readme-stats.vercel.app/api?username=atsukoba&count_private=true&show_icons=true)
 
 ## Education
 
@@ -63,27 +52,3 @@ Keio SFC Eccentric Research Grant 2020
 |CyberAgent AI Lab| Machine Learning Engineer Internship |02/2020 - 03/2020|
 |Sansan DSOC| Natural Language Processing Engineer Internship|02/2019 - 03/2019|
 |FRONTEO Bisiness Informatics Lab|Natural Language Processing Engineer Internship|09/2018 - 02/2019|
-
-## Licenses & Certifications
-
-- Fundamental Information Technology Engineer Examination (2017/11)
-- TOEIC 805 (2017/4)
-- EIKEN Grade Pre-1 (2014/10)
-
-## Honors & Awards
-
-**3rd Prize, Excellent Student Paper Award, IEEE 1st Global Conference on Life Sciences and Technologies (LifeTech 2019)**
-
-Co-author (2nd author) of accepted paper "Decoding Relative Pitch Imagery Using Functional Connectivity; An Electroencephalographic Study" by Sakamoto Shu. (3/2019)
-
-**3rd Prize, Data Science Challenge by FUJIFILM Brain(s)**
-
-Data Analysis (image recognition, image processing) Competition for students held by FUJIFILM AI Center (2/2019)
-
-**Digital Innovators Grand Prix 8, First runner-up**
-
-honor descriptionPresentation Title "Book Gym: Providing Extraordinary Reading by Redefined Value of Reading" <http://dmc-lab.sfc.keio.ac.jp/dig7/> (3/2019)
-
-**Digital Innovators Grand Prix 7, First runner-up**
-
-honor descriptionPresentation Title "Improve Plan of Japanese Restaurant Review System Via Semantic Vectorization of Review Text" <http://dmc-lab.sfc.keio.ac.jp/dig7/> (9/2018)
