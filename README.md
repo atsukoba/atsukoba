@@ -1,5 +1,3 @@
-# 😄Hello I'm Atsuya😄
-
 [![](https://img.shields.io/badge/Check-Portfolio-ff3366)](https://github.com/atsukoba/atsukoba/blob/master/portfolio_202007.pdf)
 [![](https://img.shields.io/badge/Listen-SoundCloud-orange)](https://soundcloud.com/atsu_jg43yr)
 [![](https://img.shields.io/badge/Follow-Twitter-00acee)](https://twitter.com/atsuyakoba)
